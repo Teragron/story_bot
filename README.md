@@ -30,7 +30,7 @@ Before running this code, make sure you have the following prerequisites in plac
     make runfast
     ```
 
-3. Download the GPT-3.5 model for generating text. You can change the `download_url` variable to a different model if needed. By default, it points to a model provided by Hugging Face:
+3. Download the stories42M model for generating text. You can change the `download_url` variable to a different model if needed. By default, it points to a model provided by Hugging Face:
 
     ```bash
     download_url = "https://huggingface.co/karpathy/tinyllamas/resolve/main/stories42M.bin"
