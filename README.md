@@ -1,6 +1,6 @@
 # Telegram Story Bot
 
-This Python script is designed to create interactive text-based stories in a Telegram chat using the OpenAI's "gpt-3.5-turbo" model. Users can initiate a story by sending a message in the format "There once was a...". The bot generates and continues the story based on the user's input.
+This Python script is designed to create interactive text-based stories in a Telegram chat using the Karpathy's tinyllamas model. Users can initiate a story by sending a message in the format "There once was a...". The bot generates and continues the story based on the user's input.
 
 ## Prerequisites
 
