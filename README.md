@@ -2,6 +2,9 @@
 
 This Python script is designed to create interactive text-based stories in a Telegram chat using the Karpathy's tinyllamas model. Users can initiate a story by sending a message in the format "There once was a...". The bot generates and continues the story based on the user's input.
 
+# HF Demo
+[TinyStories](https://huggingface.co/spaces/teragron/TinyStories)
+
 ## Prerequisites
 
 Before running this code, make sure you have the following prerequisites in place:
