@@ -64,3 +64,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - It uses the [python-telegram-bot](https://python-telegram-bot.readthedocs.io/en/stable/) library to interact with Telegram.
 
 Feel free to customize and modify this code to meet your specific requirements. Happy storytelling!
+
+
+```python
+>python train.py --compile=False
+```
